@@ -1,0 +1,21 @@
+{
+    "vendor":{
+        "Vendor1":{
+            "baseURL":"",
+            "customer_id":"", 
+            "requestor_id":""
+            },
+        "Vendor2":{
+            "baseURL":"",
+            "customer_id":"",
+            "requestor_id":""
+        }
+    },
+    "template":{
+        "vendorName":{
+            "baseURL":"",
+            "customer_id": "",
+            "requestor_id":""
+        }
+    }
+}
