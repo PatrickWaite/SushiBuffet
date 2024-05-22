@@ -1,7 +1,7 @@
 # SushiBuffet
 this project is meant to facilitate collecting and processing Counter 5 usage data using the SUSHI API across multiple independent vendors. 
 
-## Use of SushiBuffet
+## Setup of SushiBuffet
 to start using the SushiBuffet script 
 1. download the git repository
 2. open vendorTemplate.json 
