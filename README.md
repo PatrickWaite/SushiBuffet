@@ -1,5 +1,7 @@
 # SushiBuffet
 this project is meant to facilitate collecting and processing Counter 5 usage data using the SUSHI API across multiple independent vendors. 
+The output for this process is an aggregated dataset consisting of usage data from all identified viable vendors.  This dataset can then be used as a singular source for further analysis of the health of our digital collections, to aid in collection assessment and to provide a consistent source for use based data visualizations.
+
 
 ## Setup of SushiBuffet
 to start using the SushiBuffet script 
